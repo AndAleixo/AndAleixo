@@ -42,6 +42,4 @@ Embedded systems engineer with **8+ years** of experience in robotics, industria
 
 ---
 
-⭐ **Profile Views**: ![Profile Views](https://komarev.com/ghpvc/?username=andaleixo&color=brightgreen)
-
-*Last updated: January 2024* 
+*Last updated: January 2025* 
