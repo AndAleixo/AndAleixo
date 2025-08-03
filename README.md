@@ -28,23 +28,6 @@ Embedded systems engineer with **8+ years** of experience in robotics, industria
 - **Embedded Linux**: Yocto Project, kernel development, device trees
 - **Tools**: CMake, Git, LabVIEW, MATLAB, Siemens TIA Portal
 
-## 🔬 Key Projects
-
-### **Industrial Vision & FPGA Acceleration**
-- Developed NIR/SWIR vision systems with custom C# software for real-time image acquisition
-- Designed FPGA IP cores for convolutional kernel acceleration on Xilinx UltraScale+ devices
-- Integrated FPGA acceleration into embedded edge computing platforms running Yocto Linux
-
-### **Robotic Cell Development**
-- Engineered complete KUKA robot control systems with safety protocols (PROFIsafe)
-- Implemented industrial communication solutions with IO-Link and HTTP protocols
-- Developed custom sensor systems for particulate matter measurement
-
-### **Embedded Systems & Control**
-- Designed stepper motor control systems with trajectory algorithms
-- Developed PID control loops and SPI peripheral communication
-- Created custom PCB designs for industrial applications
-
 ## 🎓 Education
 
 - **Master's Degree** in Automation, Electronics and Industrial Control
@@ -53,22 +36,7 @@ Embedded systems engineer with **8+ years** of experience in robotics, industria
 - **Bachelor's Degree** in Electrical and Electronics Engineering  
   - *Universidade Federal de Pernambuco* (2013-2018)
 
-## 🏆 Certifications
-
-- **Verilog for an FPGA Engineer with Xilinx Vivado Design Suite**
-- **Embedded Linux Using Yocto**
-- **Programación TPE, Nivel B - FANUC Europe**
-- **Certified LabVIEW Associate Developer** (National Instruments)
-
-## 🌍 Languages
-
-- 🇧🇷 **Portuguese**: Native
-- 🇺🇸 **English**: Professional working proficiency  
-- 🇪🇸 **Spanish**: Full professional proficiency
-
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andaleixo&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andaleixo&layout=compact&theme=radical&hide_border=true)
 
