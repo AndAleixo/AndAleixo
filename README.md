@@ -3,13 +3,13 @@
 **FPGA & Embedded Systems Engineer** | Industrial Robotics & Automation Specialist
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andaleixo)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xxx@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andre.f.p.aleixo@gmail.com)
 
 ---
 
 ## 🎯 About Me
 
-Embedded systems engineer with **8+ years** of experience in robotics, industrial automation, and FPGA design. Specialized in real-time control systems, computer vision processing (NIR/SWIR), and edge computing. Passionate about developing innovative solutions for industrial applications.
+Embedded systems engineer with **8+ years** of experience in robotics, industrial automation, and FPGA design. Specialized in real-time control systems, computer vision processing, and edge computing. Passionate about developing innovative solutions for industrial applications.
 
 ## 🚀 My Expertise
 
